@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://violin-zoo-light-stuffed.trycloudflare.com/vnc.html
+URL       : https://franchise-killing-states-applicant.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 01:50:20
+Created   : 2026-09-02 09:12:33
 =======================================================
