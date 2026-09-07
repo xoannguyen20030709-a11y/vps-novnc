@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://delicious-strand-fragrance-economics.trycloudflare.com/vnc.html
+URL       : https://bailey-solar-connection-camps.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 21:51:39
+Created   : 2026-09-07 01:43:26
 =======================================================
