@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://entering-practice-tree-waters.trycloudflare.com/vnc.html
+URL       : https://clean-deal-hoped-there.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 15:24:36
+Created   : 2026-09-07 22:24:23
 =======================================================
