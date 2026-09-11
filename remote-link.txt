@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://portraits-commented-lat-you.trycloudflare.com/vnc.html
+URL       : https://advised-meet-nights-plates.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 09:17:00
+Created   : 2026-09-11 13:59:02
 =======================================================
