@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://router-typing-were-receive.trycloudflare.com/vnc.html
+URL       : https://skiing-empirical-example-thu.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-13 09:52:40
+Created   : 2026-09-13 13:59:54
 =======================================================
