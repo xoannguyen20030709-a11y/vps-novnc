@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arch-discovered-adopted-click.trycloudflare.com/vnc.html
+URL       : https://else-visits-ist-outdoor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-19 21:55:43
+Created   : 2026-09-20 02:10:58
 =======================================================
