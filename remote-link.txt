@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://historic-pacific-our-finite.trycloudflare.com/vnc.html
+URL       : https://slide-lucas-bell-amsterdam.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-28 02:25:12
+Created   : 2026-09-28 11:21:07
 =======================================================
