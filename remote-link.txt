@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drainage-separated-claimed-induced.trycloudflare.com/vnc.html
+URL       : https://mail-nest-generate-usb.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 18:27:09
+Created   : 2026-10-03 22:32:54
 =======================================================
