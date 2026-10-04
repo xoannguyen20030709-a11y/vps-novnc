@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://required-elephant-probably-voltage.trycloudflare.com/vnc.html
+URL       : https://diagram-trembl-rand-annotation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 10:50:07
+Created   : 2026-10-04 18:28:44
 =======================================================
