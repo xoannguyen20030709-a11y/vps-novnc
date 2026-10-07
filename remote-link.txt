@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://distribution-diagram-meetings-metropolitan.trycloudflare.com/vnc.html
+URL       : https://nova-passes-bishop-movers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-07 03:09:43
+Created   : 2026-10-07 11:27:02
 =======================================================
