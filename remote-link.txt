@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://solar-programme-coating-overnight.trycloudflare.com/vnc.html
+URL       : https://gap-affiliation-division-roy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 23:05:07
+Created   : 2026-10-11 02:43:02
 =======================================================
