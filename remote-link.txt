@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://observation-assess-expenditure-the.trycloudflare.com/vnc.html
+URL       : https://sox-answering-figure-thumbnails.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 14:48:53
+Created   : 2026-10-14 19:04:20
 =======================================================
