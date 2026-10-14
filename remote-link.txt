@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cradle-temporarily-cardiac-consist.trycloudflare.com/vnc.html
+URL       : https://wax-expressions-ethical-elliott.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 02:33:16
+Created   : 2026-10-14 09:51:43
 =======================================================
