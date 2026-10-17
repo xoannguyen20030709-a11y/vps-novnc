@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://very-celtic-screens-reproduce.trycloudflare.com/vnc.html
+URL       : https://emily-singer-portal-rob.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 02:00:31
+Created   : 2026-10-17 08:57:20
 =======================================================
