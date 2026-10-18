@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://monetary-mild-supplier-synopsis.trycloudflare.com/vnc.html
+URL       : https://civilian-carefully-ebony-interventions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 09:14:55
+Created   : 2026-10-18 13:41:54
 =======================================================
