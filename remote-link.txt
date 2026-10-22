@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://survivor-resource-months-fitted.trycloudflare.com/vnc.html
+URL       : https://uniprotkb-committee-holidays-court.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 14:47:52
+Created   : 2026-10-22 18:59:13
 =======================================================
