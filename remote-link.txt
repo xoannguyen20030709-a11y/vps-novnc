@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://responsibilities-art-cloth-operate.trycloudflare.com/vnc.html
+URL       : https://healthy-celebrate-numerical-exercises.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:14:40
+Created   : 2026-11-02 03:10:35
 =======================================================
